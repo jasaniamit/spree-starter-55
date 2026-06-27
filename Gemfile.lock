@@ -1,3 +1,40 @@
+GIT
+  remote: https://github.com/umeshravani/spree_google_products
+  revision: 681f3e1408e96325128ad547c3462d9f6325fa60
+  branch: main
+  specs:
+    spree_google_products (1.0)
+      dotenv-rails (>= 2.7)
+      google-ads-googleads (~> 24.0)
+      google-apis-content_v2_1
+      googleauth (~> 1.0)
+      kaminari
+      omniauth-google-oauth2 (~> 1.0)
+      spree_admin (>= 5.0.0)
+      spree_core (>= 5.0.0)
+
+GIT
+  remote: https://github.com/umeshravani/spree_product_reviews.git
+  revision: 6ef7a8e8aa7d20c4e5d743335952b94be0e45c89
+  branch: main
+  specs:
+    spree_product_reviews (1.2.0)
+      spree_auth_devise
+      spree_core (>= 5.2)
+      spree_extension
+
+GIT
+  remote: https://github.com/umeshravani/spree_razorpay.git
+  revision: f534aee28d5a3111215b08a91c502028b64dded0
+  branch: main
+  specs:
+    spree_razorpay_checkout (0.3.3)
+      activemerchant
+      razorpay (~> 3.2)
+      spree_core (>= 5.3)
+      spree_extension
+
+
 GEM
   remote: https://rubygems.org/
   specs:
