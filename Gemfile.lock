@@ -1,10 +1,6 @@
 GIT
   remote: https://github.com/umeshravani/spree_google_products
-<<<<<<< HEAD
-  revision: 681f3e1408e96325128ad547c3462d9f6325fa60
-=======
   revision: 2015ed28fb9e8ea0710d6745a5ee3fbab2fbc2e5
->>>>>>> aae7e0c (Update Gemfile.lock)
   branch: main
   specs:
     spree_google_products (1.0)
@@ -19,11 +15,7 @@ GIT
 
 GIT
   remote: https://github.com/umeshravani/spree_product_reviews.git
-<<<<<<< HEAD
-  revision: 6ef7a8e8aa7d20c4e5d743335952b94be0e45c89
-=======
   revision: 456c2805cc7f5a4a9c8e27a21194be5e21fd79f4
->>>>>>> aae7e0c (Update Gemfile.lock)
   branch: main
   specs:
     spree_product_reviews (1.2.0)
@@ -42,10 +34,7 @@ GIT
       spree_core (>= 5.3)
       spree_extension
 
-<<<<<<< HEAD
 
-=======
->>>>>>> aae7e0c (Update Gemfile.lock)
 GEM
   remote: https://rubygems.org/
   specs:
