@@ -80,3 +80,8 @@ end
 group :development do
   gem 'web-console'
 end
+
+gem 'spree_product_reviews', git: 'https://github.com/umeshravani/spree_product_reviews.git', branch: 'main'
+gem 'spree_razorpay_checkout', git: 'https://github.com/umeshravani/spree_razorpay.git', branch: 'main'
+gem 'spree_google_products', git: 'https://github.com/umeshravani/spree_google_products', branch: 'main'
+#gem 'spree_delhivery', github: 'umeshravani/spree_delhivery'
