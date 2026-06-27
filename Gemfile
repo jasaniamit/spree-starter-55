@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-ruby '4.0.1'
+ruby '3.4.7'
 
 # Load .env for SPREE_PATH (dotenv-rails only loads at Rails boot, not during bundle)
 env_file = File.expand_path('.env', __dir__)
